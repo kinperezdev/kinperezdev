@@ -4,14 +4,13 @@
 ---                                                                         
 
 ### Active Grinds                                                                                                                                                                   
-*   **Founder @ ArchLab** - An AI-powered local engineering command center & visual architecture canvas.                                                                            
-*   **Shipped Apps** - Created [Gecko Bill Tracker](https://gecko.kinperez.com) (a minimalist household electric bill tracker) live on the App Store.                     
+*   **Founder @ ArchLab** - An AI-powered local engineering command center & visual architecture canvas.                                                                              
 *   **Builder @ Learning Pod Management System** - A platform for managing student learning pods and peer-to-peer study networks.                                               
 *   **Builder @ SWU Scholarship Portal** - An administration and management platform built for SWU PHINMA's scholarship office.    
 
 ### Stack                                                                                                                                                                             
 *   **Mobile:** Flutter / Dart (Primary), SwiftUI, React Expo                                                                                                                         
-*   **Web / Backend:** Next.js, React (TypeScript), Node.js, Python, Go                                                                                                           
+*   **Web / Backend:** Next.js, React (TypeScript),Astro, Node.js, Python, Go                                                                                                         
 *   **Data / Services:** Supabase (PostgreSQL), Firebase      
 
 ---                                                                                 
