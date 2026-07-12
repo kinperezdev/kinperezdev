@@ -1,5 +1,5 @@
 # Hello its Kin here                                                                                                                                                                
-**Software Product Engineer** based in the Philippines. I build AI-native systems, interactive interfaces, and cross-platform mobile apps.     
+**Software Product Engineer** based in the Philippines. I build AI-native systems, interactive interfaces,cross-platform mobile apps, and websites.     
 
 ---                                                                         
 
@@ -9,7 +9,7 @@
 *   **Builder @ SWU Scholarship Portal** - An administration and management platform built for SWU PHINMA's scholarship office.    
 
 ### Stack                                                                                                                                                                             
-*   **Mobile:** Flutter / Dart (Primary), SwiftUI, React Expo                                                                                                                         
+*   **Mobile:** Flutter / Dart, SwiftUI, React Expo                                                                                                                         
 *   **Web / Backend:** Next.js, React (TypeScript),Astro, Node.js, Python, Go                                                                                                         
 *   **Data / Services:** Supabase (PostgreSQL), Firebase      
 
