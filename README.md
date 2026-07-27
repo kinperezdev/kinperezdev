@@ -1,8 +1,6 @@
 # Hello its Kin here                                                                                                                                                                
 **Software Product Engineer** based in the Philippines. I build AI-native systems, interactive interfaces,cross-platform mobile apps, and websites.     
 
-
-
 ### Active Grinds                                                                                                                                                                   
 *   **Founder @ ArchLab** - An AI-powered local engineering command center & visual architecture canvas.                                                                              
 *   **Builder @ Learning Pod Management System** - A platform for managing student learning pods and peer-to-peer study networks.                                               
