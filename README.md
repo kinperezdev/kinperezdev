@@ -1,17 +1,6 @@
 # Hello its Kin here                                                                                                                                                                
 **Software Product Engineer** based in the Philippines. I build AI-native systems, interactive interfaces,cross-platform mobile apps, and websites.     
-
-### Active Grinds                                                                                                                                                                   
-*   **Founder @ ArchLab** - An AI-powered local engineering command center & visual architecture canvas.                                                                              
-*   **Builder @ Learning Pod Management System** - A platform for managing student learning pods and peer-to-peer study networks.                                               
-*   **Builder @ SWU Scholarship Portal** - An administration and management platform built for SWU PHINMA's scholarship office.    
-
-### Stack                                                                                                                                                                             
-*   **Mobile:** Flutter / Dart, SwiftUI, React Expo                                                                                                                         
-*   **Web / Backend:** Next.js, React (TypeScript),Astro, Node.js, Python, Go                                                                                                         
-*   **Data / Services:** Supabase (PostgreSQL), Firebase      
-
-
+  
 *Always open to collaborating on interesting products, system architectures, and complex engineering challenges. Let's build.*   
 
                                                                                                                                                                                  
