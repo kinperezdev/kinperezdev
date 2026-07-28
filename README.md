@@ -1,4 +1,4 @@
-# Hello its Kin here                                                                                                                                                                
+** Hello its Kin here                                                                                                                                                                
 **Software Product Engineer** based in the Philippines. I build AI-native systems, interactive interfaces,cross-platform mobile apps, and websites.     
   
 *Always open to collaborating on interesting products, system architectures, and complex engineering challenges. Let's build.*   
